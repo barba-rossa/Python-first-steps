@@ -1,9 +1,20 @@
-# Python-first-steps
+# Python First Steps 🎮
 
-Hi ya! :D
-These are my first steps on Python!
-Here we have 2 simple games: guess the number and the hangman game.
-In order to play them it's very simple, just clone the repository and run the file jogos.py
-Once you load the game menu, you may choose between these 2 games. 
-Guess the number has 3 dificulty levels, wich will vary the nunber of guesses you have.
-The hangman game has a wordlist in the palavras.txt that  are made of brazilian fruit names (PT-BR)
+This project contains my very first Python programs, developed in 2019 as part of my self-learning journey in programming.
+
+## What's Included
+- **Guess the Number:** A number-guessing game with three difficulty levels.
+- **Hangman (Jogo da Forca):** Classic game using a word list of Brazilian fruits (Portuguese - PT-BR).
+
+## How to Run
+1. Clone the repository.
+2. Run the file `jogos.py`.
+3. Choose a game from the menu.
+
+## Notes
+- The word list used in Hangman is in `palavras.txt`.
+- This project was my starting point with Python and I keep it here as a personal milestone.
+
+---
+
+📌 *This code is intentionally kept as-is to reflect my early learning phase.*
